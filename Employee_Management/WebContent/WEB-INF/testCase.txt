@@ -1,0 +1,5 @@
+
+com.sample.dao.EmployeeDaoTest
+com.sample.bo.DepartmentBOTest
+com.sample.dao.DepartmentDaoTest
+com.sample.bo.EmployeeBOTest

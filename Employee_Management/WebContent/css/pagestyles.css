@@ -1,0 +1,86 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: gray;
+	height: 100%;
+}
+
+h1 {
+	text-align: center;
+	float: none;
+	font-size: xx-large;
+	font-stretch: wider;
+	font-family: sans-serif;
+	color: black;
+	font-style: normal;
+}
+
+H2 {
+	font-style: italic;
+}
+
+#header {
+	height: 100px;
+	background-color: lightseagreen;
+	text-align: center;
+	padding-top: 30px;
+}
+
+#content {
+	height: 400px;
+	background-color: white;
+	border-color: maroon;
+	border: 2 px solid;
+}
+
+#footer {
+	height: 50px;
+	background-color: lightseagreen;
+	font-family: arial;
+	font-style: normal;
+	border: thick;
+	text-align: center;
+	color: brown;
+}
+
+#logintable {
+	background-color: tan;
+	border: 2px solid;
+	border-color: brown;
+	float: none;
+	position: relative;
+	margin-left: 30%;
+	margin-top: 10%;
+}
+
+#errorspan {
+	color: red;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+}
+
+#msgspan {
+	color: green;
+	text-align: center;
+	font-size: xx-large;
+	font-style: italic;
+}
+
+#usererror,#passerror,#loginerror {
+	font-style: normal;
+	color: red;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.columnstyle {
+	width: 100px;
+	padding-left: 10%;
+}
+
+.success {
+	color : green;
+	font-family: arial;
+	font-size: 20px;
+}

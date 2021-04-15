@@ -1,0 +1,94 @@
+/* --- menu styles ---
+note:
+	not all browsers render styles the same way so try out your style sheet
+	on different browsers before publishing;
+*/
+/* level 0 inner */
+.m0l0iout {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight :bold;
+	padding: 4px;
+	color: #000000;
+}
+.m0l0iover {
+	font: bold 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	padding: 4px;
+	color: #000000;
+}
+
+/* level 0 outer */
+.m0l0oout {
+	text-decoration : none;
+/*	border : 1px solid #FFFFFF;
+	background: #4682B4;*/
+}
+.m0l0oover {
+	text-decoration : none;
+/*	border : 1px solid #FFFFFF;
+	background: #5AA7E5;*/
+}
+
+/* level 1 inner */
+.m0l1iout {
+	font: 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding: 4px;
+	color: #000000;
+}
+.m0l1iover {
+	font: bold 12px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	padding: 4px;
+	color: #000000;
+}
+
+/* level 1 outer */
+.m0l1oout {
+	text-decoration : none;
+	border : 1px solid #FFFFFF;
+	/*background: #46B446;*/
+	//background: #F8B665;
+	background:#FFd595;
+	/*filter: alpha(opacity=85);*/
+}
+.m0l1oover {
+	text-decoration : none;
+	border : 1px solid #FFFFFF;
+	/*background: #5AE55A;*/
+	//background: #F8B665;
+	background:#a5cfff;
+}
+
+/* level 2 inner */
+.m0l2iover {
+	font: bold 12px Arial, Tahoma, Verdana, Geneva, , Helvetica, sans-serif;
+	text-decoration : none;
+	padding: 4px;
+	/*color: #ffffff;*/
+	color: #000000;
+}
+
+
+/* level 2 outer */
+.m0l2oout {
+	text-decoration : none;
+	border : 1px solid #a5cfff;
+	/*background: #B44646;*/
+	//background: #F8B665;
+	background:#dceeff;
+	/*filter: alpha(opacity=85);*/
+}
+.m0l2oover {
+	text-decoration : none;
+	border : 1px solid #a5cfff;
+	/*background: #E55A5A;*/
+	//background: #F8B665;
+	background:#dceeff;
+}.RRS_Fld_Vl_Readonly1 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: normal; color: #000000 ; background-color: #FFF7EC}
+.text-white {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #FFFFFF}
+hr {  background-color: #00FF00}
+
+.RRS_Button1 { BORDER-RIGHT: white 1px outset; PADDING-RIGHT: 2px; BORDER-TOP: white 1px outset; PADDING-LEFT: 2px; FONT-WEIGHT: bolder; FONT-SIZE: 8pt; BACKGROUND-IMAGE: url(../css/..%5Cimages%5Cbutton-orange-bg.gif); PADDING-BOTTOM: 2px; BORDER-LEFT: white 1px outset; CURSOR: hand; PADDING-TOP: 2px; BORDER-BOTTOM: white 1px outset; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif }
